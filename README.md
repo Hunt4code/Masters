@@ -1,6 +1,6 @@
 # Hi, I'm Hrishikesh Balakrishnan 👋
 
-🚀 Data Scientist | Business Analyst | ML Engineer  
+🚀 Data Scientist | Data Analyst | Business Analyst |  
 
 I specialize in **data analytics, predictive modeling, machine learning, and business intelligence**. My experience includes working with **Python, SQL, AWS, Databricks, Tableau, Qlik Sense, and deep learning techniques** to derive insights and build scalable solutions.
 
@@ -13,8 +13,8 @@ Currently, I am working on **herbal product efficacy analysis**, **stock market 
 - **Databases:** SQL Server, NoSQL (DynamoDB), SQLite3  
 - **Big Data & Cloud:** AWS, Hadoop, Spark, Hive  
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, NLP  
-- **Visualization:** Tableau, Qlik Sense, Matplotlib, Seaborn  
-- **ETL & Data Pipelines:** dbt, Apache Airflow, Pandas, NumPy  
+- **Visualization:** Tableau, Matplotlib  
+- **ETL & Data Pipelines:** Pandas, NumPy  
 - **Web Scraping & APIs:** BeautifulSoup, Selenium, REST APIs  
 - **Project Management:** Jira, Git, Agile, Confluence
   
