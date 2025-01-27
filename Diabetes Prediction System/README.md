@@ -94,7 +94,7 @@ I successfully developed GlycoCheck, a **data-driven AI solution** for **diabete
 
 ### 🔗 Connect with Me
 
-Feel free to reach out for discussions or improvements! 📧 Email: [[your.email@example.com](mailto\:your.email@example.com)]\
-🔗 LinkedIn: [Your LinkedIn Profile]\
-🐍 GitHub: [Your GitHub Profile]
+Feel free to reach out for discussions or improvements! 📧 Email: [hrishiumb@gmail.com]\
+🔗 LinkedIn: www.linkedin.com/in/hrishikeshbalakrishnan
+🐍 GitHub:[Hunt4code](https://github.com/Hunt4code/Masters.git )
 
