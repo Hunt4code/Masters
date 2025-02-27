@@ -1,0 +1,25 @@
+[project]
+name = "thyropredict"
+version = "0.1.0"
+description = "AI-powered thyroid cancer risk prediction using deep learning and ML models."
+authors = [
+    {name = "Hrishikesh Balakrishnan"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "flask>=2.2.5",
+    "numpy>=1.26.0,<2.2.0",  # Compatible with TensorFlow
+    "tensorflow>=2.18.0,<2.20.0",
+    "joblib>=1.2.0",
+    "gunicorn>=20.1.0",
+    "scikit-learn>=1.1.3",
+    "pandas>=1.3.5",
+    "shap>=0.41.0"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
