@@ -10,15 +10,6 @@ This project aims to classify **driving behavior into slow, aggressive, and fast
 - **Performance Evaluation**: Compared model accuracy, precision, and recall for optimal selection.
 - **Applications**: Can be integrated into driver assistance systems, insurance risk assessment, and smart transportation analytics.
 
-## 📂 Folder Structure
-Deep Learning-Based Driving Behavior Analysis/
-│── README.md            # Project documentation
-│── data/                # Raw and preprocessed datasets
-│── notebooks/           # Jupyter Notebooks for model training & analysis
-│── final_report.pdf     # Research paper summarizing methodology & results
-│── presentation.pptx    # Slide deck presenting key insights
-
-
 ## 🛠 Tech Stack
 - **Languages**: Python
 - **Libraries**: TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Seaborn
