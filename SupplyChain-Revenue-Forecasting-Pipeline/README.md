@@ -31,7 +31,6 @@ Supply_Chain/
 ├── cleaned_supply_chain_data.csv  # Final input dataset
 ├── final_model_results.csv        # Output predictions used for Tableau
 ├── supply_chain_revenue_model.pkl # Serialized ML model
-├── airflow.cfg / webserver_config.py # Airflow config files (if customized)
 └── README.md                       # Project summary and status
 ```
 
